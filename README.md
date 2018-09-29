@@ -1,5 +1,4 @@
-# Epidemics_in_c
-A collection of .cpp scripts for network epidemiology. 
+#  GeneratingFunctions
 
 ## GeneratingFunctions.cpp
 
